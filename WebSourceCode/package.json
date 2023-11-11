@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.1.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "crypto-js": "^4.1.1",
     "element-plus": "^2.3.8",
     "qrcode.vue": "^3.4.0",
