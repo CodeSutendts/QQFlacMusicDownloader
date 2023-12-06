@@ -32,7 +32,7 @@
     "unplugin-auto-import": "^0.16.6",
     "unplugin-icons": "^0.16.5",
     "unplugin-vue-components": "^0.25.1",
-    "vite": "^4.4.6",
+    "vite": "^4.4.12",
     "vite-plugin-compression": "^0.5.1",
     "vite-plugin-inspect": "^0.7.33",
     "vue-router": "^4.2.4",
